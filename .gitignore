@@ -1,5 +1,5 @@
 *.sqlite
-.env.Local
+.env.local
 prisma/.env
 
 # Logs
